@@ -9,3 +9,10 @@ if (number % 2 == 0):
     print(number, ' is an even number')
 else:
     print(number, ' is an odd number')
+
+
+# Task 2: Less than 100
+# Given a list of numbers, determine if each item in the list is lower than 100.
+# The function should take in the list as a parameter and return a boolean value (False if there are any numbers greater than or equal to 100, True if all numbers are less than 100).
+# Leave a comment above the function stating the time complexity.
+# Send a screenshot of your solution and time complexity comment to your personal instructors chat.
