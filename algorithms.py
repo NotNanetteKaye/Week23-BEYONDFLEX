@@ -25,3 +25,6 @@ for number in list_number:
     else:
         print('True, this value is less than 100')
 
+# Task 3: Repeated Names
+    # Given a list of names, determine if any names are contained in the list more than once.
+    # The function should take in the list as a parameter and return a boolean value (True if there are any repeated names, False if there are no repeats).
