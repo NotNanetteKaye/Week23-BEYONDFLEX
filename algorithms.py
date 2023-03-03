@@ -4,9 +4,6 @@
     # Leave a comment above the function stating the time complexity.
     # Send a screenshot of your solution and time complexity comment to your personal instructors chat.
 
-#boolean example: 
-
-# non-boolean example:
 number = int(input('Please enter a number: '))
 if (number % 2 == 0):
     print(number, ' is an even number')
@@ -19,3 +16,12 @@ else:
     # The function should take in the list as a parameter and return a boolean value (False if there are any numbers greater than or equal to 100, True if all numbers are less than 100).
     # Leave a comment above the function stating the time complexity.
     # Send a screenshot of your solution and time complexity comment to your personal instructors chat.
+
+list_number = [4, 100, 40, 3]
+
+for number in list_number:
+    if number >= 100:
+        print('False, this value is greater than or equal to 100')
+    else:
+        print('True, this value is less than 100')
+
