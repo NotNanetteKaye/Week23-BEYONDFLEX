@@ -4,11 +4,11 @@
     # Leave a comment above the function stating the time complexity.
     # Send a screenshot of your solution and time complexity comment to your personal instructors chat.
 
-number = int(input('Please enter a number: '))
-if (number % 2 == 0):
-    print(number, ' is an even number')
-else:
-    print(number, ' is an odd number')
+# number = int(input('Please enter a number: '))
+# if (number % 2 == 0):
+#     print(number, ' is an even number')
+# else:
+#     print(number, ' is an odd number')
 
 
 # Task 2: Less than 100
@@ -17,14 +17,19 @@ else:
     # Leave a comment above the function stating the time complexity.
     # Send a screenshot of your solution and time complexity comment to your personal instructors chat.
 
-list_number = [4, 100, 40, 3]
-
-for number in list_number:
-    if number >= 100:
-        print('False, this value is greater than or equal to 100')
-    else:
-        print('True, this value is less than 100')
+# list_number = [4, 100, 40, 3]
+# for number in list_number:
+#     if number >= 100:
+#         print('False, this value is greater than or equal to 100')
+#     else:
+#         print('True, this value is less than 100')
 
 # Task 3: Repeated Names
     # Given a list of names, determine if any names are contained in the list more than once.
     # The function should take in the list as a parameter and return a boolean value (True if there are any repeated names, False if there are no repeats).
+
+names = ['Nani', 'Darling', 'Nani', 'Nanette']
+no_duplicate_names = set()
+duplicates = set(x for x in names if (x in no_duplicate_names or no_duplicate_names.add(x)))
+print(list(duplicates), 'is a duplicate name in names')
+print(list(no_duplicate_names), 'are all the names in list of names')
