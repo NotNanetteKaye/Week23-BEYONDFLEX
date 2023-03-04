@@ -28,8 +28,17 @@
     # Given a list of names, determine if any names are contained in the list more than once.
     # The function should take in the list as a parameter and return a boolean value (True if there are any repeated names, False if there are no repeats).
 
-names = ['Nani', 'Darling', 'Nani', 'Nanette']
-no_duplicate_names = set()
-duplicates = set(x for x in names if (x in no_duplicate_names or no_duplicate_names.add(x)))
-print(list(duplicates), 'is a duplicate name in names')
-print(list(no_duplicate_names), 'are all the names in list of names')
+# names = ['Nani', 'Darling', 'Nani', 'Nanette']
+# no_duplicate_names = set()
+# duplicates = set(x for x in names if (x in no_duplicate_names or no_duplicate_names.add(x)))
+# print(list(duplicates), 'is a duplicate name in names')
+# print(list(no_duplicate_names), 'are all the names in list of names')
+
+
+# Task 4: Sort List
+    # Given a list of numbers, manually sort the list into ascending order (may not use built in .sort() method).
+    # Suggested strategy:
+        # Starting with the first two numbers, compare them to see which is larger. 
+        # Place the lower number to the left and the higher number to the right.
+        # Iterate through the list, checking each pair of numbers one at a time.
+        # Repeat from the start until the entire list is sorted.
