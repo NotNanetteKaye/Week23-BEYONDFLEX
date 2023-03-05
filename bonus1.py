@@ -37,3 +37,6 @@ count = 0
 print(len(str(number)))
 
 # ✨ len() can be used with string or arrays
+
+
+# Task 4: Find the factorial of a given number. A factorial means to multiply all of the numbers of a given number counting down to 1. For example, given the number 5, multiply 5 * 4 * 3 * 2 * 1 to get the result: 120.
