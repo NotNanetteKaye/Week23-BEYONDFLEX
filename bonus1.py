@@ -54,3 +54,10 @@
 #    for num in range(number, 1, -1):
 #        factorial = factorial * num
 #    print('the factorial for', number, 'is', factorial )
+
+# Write a program that will allow a user to play a “guess the number” game. This program should only allow the user five guesses to guess the correct number, and display messages for the three following cases:
+# A correct guess (which should end the program)
+# An incorrect guess, but there are still guesses left
+# An incorrect guess, but there are no more guesses left and the program is over. This should also display the correct number to the user
+# BONUS: Offer a “hint” after three wrong guesses (could be a range of numbers that the number falls within, for instance)
+# BONUS: Generate the number randomly every time the program runs.
