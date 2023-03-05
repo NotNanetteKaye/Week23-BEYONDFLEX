@@ -13,12 +13,27 @@
 
 # Task 2: Write a program that will print the following to the console using the print() function.
 
-for x in range(8):
-    if (x % 2 ==  0):
-        print(' # # # #')
-    else:
-        print('# # # # ')
+#for x in range(8):
+#    if (x % 2 ==  0):
+#        print(' # # # #')
+#    else:
+#        print('# # # # ')
 
 
 # Task 3: Write a program that takes a number as input from the user, counts all of the digits in that number, and prints the digit count to the console.
 # Example: Typing 53895 will print 5 to the console
+# explanation: https://www.programiz.com/python-programming/examples/number-of-digits
+
+number = input('Please enter any number for Python to count: ')
+count = 0
+
+# while number != 0:
+#     number //= 10
+#     count += 1
+# print('Number of digits: ' + str(count))
+
+# ORRRR 
+
+print(len(str(number)))
+
+# ✨ len() can be used with string or arrays
