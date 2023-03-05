@@ -24,8 +24,8 @@
 # Example: Typing 53895 will print 5 to the console
 # explanation: https://www.programiz.com/python-programming/examples/number-of-digits
 
-number = input('Please enter any number for Python to count: ')
-count = 0
+# number = input('Please enter any number for Python to count: ')
+# count = 0
 
 # while number != 0:
 #     number //= 10
@@ -34,9 +34,23 @@ count = 0
 
 # ORRRR 
 
-print(len(str(number)))
+# print(len(str(number)))
 
 # ✨ len() can be used with string or arrays
 
 
-# Task 4: Find the factorial of a given number. A factorial means to multiply all of the numbers of a given number counting down to 1. For example, given the number 5, multiply 5 * 4 * 3 * 2 * 1 to get the result: 120.
+# Task 4: Find the factorial of a given number. 
+# A factorial means to multiply all of the numbers of a given number counting down to 1. For example, given the number 5, multiply 5 * 4 * 3 * 2 * 1 to get the result: 120.
+# explanation: https://www.google.com/search?sxsrf=AJOqlzW7zQng87_IFaQFy1bFlBW5xe_Arg:1677990652373&q=how+to+find+factorial+of+a+number+in+python&tbm=vid&sa=X&ved=2ahUKEwiDlZWm-sP9AhWBlmoFHX7XBDkQ0pQJegQICxAB&biw=1080&bih=779&dpr=2#fpstate=ive&vld=cid:1b77bf9f,vid:-qPu96nQOSk
+
+# number = int(input('enter the number: '))
+# factorial = 1
+
+# if (number < 0):
+#    print('Cannot find factorial of negative numbers')
+#elif (number == 0 or number == 1):
+#    print('{}! = {}'.format(number, factorial))
+#else:
+#    for num in range(number, 1, -1):
+#        factorial = factorial * num
+#    print('the factorial for', number, 'is', factorial )
