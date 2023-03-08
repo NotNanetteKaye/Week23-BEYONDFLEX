@@ -55,9 +55,10 @@
 #        factorial = factorial * num
 #    print('the factorial for', number, 'is', factorial )
 
-# Write a program that will allow a user to play a “guess the number” game. This program should only allow the user five guesses to guess the correct number, and display messages for the three following cases:
+# Task 5: Write a program that will allow a user to play a “guess the number” game. This program should only allow the user five guesses to guess the correct number, and display messages for the three following cases:
 # A correct guess (which should end the program)
 # An incorrect guess, but there are still guesses left
 # An incorrect guess, but there are no more guesses left and the program is over. This should also display the correct number to the user
 # BONUS: Offer a “hint” after three wrong guesses (could be a range of numbers that the number falls within, for instance)
 # BONUS: Generate the number randomly every time the program runs.
+# explanation: https://www.google.com/search?sxsrf=AJOqlzVPqi-U27maG-ryUQYNoGFHBCvIrg:1677992892842&q=Write+a+program+that+will+allow+a+user+to+play+a+%E2%80%9Cguess+the+number%E2%80%9D+game.+This+program+should+only+allow+the+user+five+guesses+to+guess+the+correct+number,+and+display+messages+for+the+three+following+cases:&tbm=vid&sa=X&ved=2ahUKEwia0MDSgsT9AhUmmmoFHWPqCEoQ0pQJegQIBxAB&biw=1080&bih=779&dpr=2#fpstate=ive&vld=cid:5fa4dcc5,vid:Jk3az4ZXEKU
