@@ -11,3 +11,7 @@ https://docs.google.com/document/d/1OGgUC_acVS7RWgZjrvOfTL3eDNWaJYGT/edit
 
 BeyondAlgorithmPractice_UN_PY_LAB:
 https://docs.google.com/document/d/1nvgIvdbv-C-_Nz8wKF1Zl6WRQKwqbDDzz58TXqDPs60/edit
+
+
+Check this reference out: 
+https://drive.google.com/drive/u/0/folders/1j-wD2j35lFr6Po1OXAJGPlw8h3M4Bg-N
