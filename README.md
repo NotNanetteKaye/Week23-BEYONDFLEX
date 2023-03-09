@@ -8,3 +8,6 @@ https://docs.google.com/document/d/1Mt9OrfjI5ALlEXPc9KB_o6csPhrsumEA/edit
 
 DataStructures01_UN_PY_LAB:
 https://docs.google.com/document/d/1OGgUC_acVS7RWgZjrvOfTL3eDNWaJYGT/edit
+
+BeyondAlgorithmPractice_UN_PY_LAB:
+https://docs.google.com/document/d/1nvgIvdbv-C-_Nz8wKF1Zl6WRQKwqbDDzz58TXqDPs60/edit
