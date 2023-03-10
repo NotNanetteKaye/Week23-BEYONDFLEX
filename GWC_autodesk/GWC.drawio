@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T21:21:37.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="EgmCLpoluAQBypueKKdP" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T21:25:07.753Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="RmkyzRF50DJwK03BXmTf" version="21.0.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1026" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -158,13 +158,16 @@
           <mxGeometry x="15" y="95" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vj0Jdh5_Ppo4rQ7cVNaH-72" value="planning classes&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;out:&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="15" y="320" width="110" height="40" as="geometry" />
+          <mxGeometry x="15" y="360" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vj0Jdh5_Ppo4rQ7cVNaH-90" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="320" width="160" height="120" as="geometry" />
+        <mxCell id="Vj0Jdh5_Ppo4rQ7cVNaH-105" value="Library Bookshelf" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="Vj0Jdh5_Ppo4rQ7cVNaH-91" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Vj0Jdh5_Ppo4rQ7cVNaH-90">
-          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        <mxCell id="Vj0Jdh5_Ppo4rQ7cVNaH-106" value="+ book_name: List" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vj0Jdh5_Ppo4rQ7cVNaH-105">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vj0Jdh5_Ppo4rQ7cVNaH-109" value="+ location_in_library" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vj0Jdh5_Ppo4rQ7cVNaH-105">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
