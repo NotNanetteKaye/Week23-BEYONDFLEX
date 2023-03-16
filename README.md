@@ -1,6 +1,6 @@
 # BEYOND FLEX
 ##### Link:  
-\- DevOps Notes: https://docs.google.com/document/d/1d7G7z_soFWyb5kUV6oRsDcuGs8nxP7kdlZt2vANUIg0/edit 
+\- DevOps Notes: https://docs.google.com/document/d/1d7G7z_soFWyb5kUV6oRsDcuGs8nxP7kdlZt2vANUIg0/edit. 
 \- Beyond Flex Notes: https://docs.google.com/document/d/1IpjX4dMrwR7ZZCju1Gg9DHQ1bdubTV8bBOxchoP0KgE/edit
 
 ### GWC: AUTODESK  
@@ -20,5 +20,5 @@ Lab: https://docs.google.com/document/d/1nvgIvdbv-C-_Nz8wKF1Zl6WRQKwqbDDzz58TXqD
 
 ### WEEK 1: WORKSHEETS IN THIS GIT (1):
 ## Bonus:  
-📈 Made progress. Go back and review
+📈 Made progress. Go back and review. 
 Lab: https://docs.google.com/document/d/1Mt9OrfjI5ALlEXPc9KB_o6csPhrsumEA/edit
