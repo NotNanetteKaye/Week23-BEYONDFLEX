@@ -1,6 +1,7 @@
 # BEYOND FLEX
 ##### Link:  
-\- Notes: https://docs.google.com/document/d/1IpjX4dMrwR7ZZCju1Gg9DHQ1bdubTV8bBOxchoP0KgE/edit
+\- DevOps Notes: https://docs.google.com/document/d/1d7G7z_soFWyb5kUV6oRsDcuGs8nxP7kdlZt2vANUIg0/edit 
+\- Beyond Flex Notes: https://docs.google.com/document/d/1IpjX4dMrwR7ZZCju1Gg9DHQ1bdubTV8bBOxchoP0KgE/edit
 
 ### GWC: AUTODESK  
 Class Diagram:
