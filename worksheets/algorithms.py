@@ -42,3 +42,5 @@
         # Place the lower number to the left and the higher number to the right.
         # Iterate through the list, checking each pair of numbers one at a time.
         # Repeat from the start until the entire list is sorted.
+
+# PRIORITIZE GWC DICTIONARY
