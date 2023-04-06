@@ -4,10 +4,6 @@
 
 \- Beyond Flex Notes: https://docs.google.com/document/d/1IpjX4dMrwR7ZZCju1Gg9DHQ1bdubTV8bBOxchoP0KgE/edit  
 
-\- GWC- DICTIONARY: https://github.com/NotNanetteKaye/Python-GWC  
-
-\- LEETCODE- HASHMAPS: https://github.com/NotNanetteKaye/Week03-OOPC-PI
-
 
 ### BEYOND FLEX: WORKSHEETS IN THIS GIT (3):
 ## O Notation:  
