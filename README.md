@@ -4,6 +4,8 @@
 
 \- Beyond Flex Notes: https://docs.google.com/document/d/1IpjX4dMrwR7ZZCju1Gg9DHQ1bdubTV8bBOxchoP0KgE/edit  
 
+\- Data Structures Series (Last Vid Watched): https://www.youtube.com/watch?v=txjmvEPlAtU
+
 
 ### BEYOND FLEX: WORKSHEETS IN THIS GIT (3):
 ## O Notation:  
